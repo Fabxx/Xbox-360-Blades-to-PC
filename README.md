@@ -55,7 +55,7 @@ Linux (Debian/Ubuntu): sudo apt install mpv
 
 Linux (Arch): 	       sudo pacman -S mpv
 
-Windows: extract the provided MPV folder where you want
+Windows: get it from mpv.io
 ```
 
 now just edit the script `XBMC 9.11.bat` if on windows, or `XBMC 9.11.sh` if on linux
